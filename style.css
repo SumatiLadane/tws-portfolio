@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+  }
+
+#name{
+  color: black;
+  text-align: center;
+  padding-top: 0%;
+}
+
+h1{
+  color: black;
+  text-align: center;
+}
+
+p{
+  font-family: Verdana;
+  font-size: 15px;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+li{
+  color: black;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
